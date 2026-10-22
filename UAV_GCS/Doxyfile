@@ -1,0 +1,14 @@
+PROJECT_NAME           = "UAV GCS"
+PROJECT_BRIEF          = "Estacion de control en tierra: recepcion, dashboard y visualizacion"
+OUTPUT_DIRECTORY       = docs
+INPUT                  = Includes src
+RECURSIVE              = YES
+FILE_PATTERNS          = *.hpp *.cpp
+EXTRACT_ALL            = NO
+EXTRACT_PRIVATE        = NO
+GENERATE_HTML          = YES
+GENERATE_LATEX         = YES
+HAVE_DOT               = NO
+JAVADOC_AUTOBRIEF      = YES
+QUIET                  = YES
+WARN_IF_UNDOCUMENTED   = YES

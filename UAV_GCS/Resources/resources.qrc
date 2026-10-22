@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>coco_classes.json</file>
+    </qresource>
+</RCC>

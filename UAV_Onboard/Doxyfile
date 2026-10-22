@@ -1,0 +1,14 @@
+PROJECT_NAME           = "UAV Onboard"
+PROJECT_BRIEF          = "Sistema embarcado del dron: percepcion, telemetria y transmision"
+OUTPUT_DIRECTORY       = docs
+INPUT                  = Includes src
+RECURSIVE              = YES
+FILE_PATTERNS          = *.hpp *.cpp
+EXTRACT_ALL            = NO
+EXTRACT_PRIVATE        = NO
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+HAVE_DOT               = NO
+JAVADOC_AUTOBRIEF      = YES
+QUIET                  = YES
+WARN_IF_UNDOCUMENTED   = YES

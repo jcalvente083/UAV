@@ -1,0 +1,7 @@
+out/
+.vs/
+debug_output/
+*.pdb
+*.ilk
+CMakeFiles/
+.git/

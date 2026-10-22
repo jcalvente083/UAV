@@ -1,0 +1,12 @@
+{
+  "transporte": "udp",
+  "host": "127.0.0.1",
+  "puerto_telemetria": 5000,
+  "puerto_video": 5001,
+  "modelo": "Models/yolov8n_480.onnx",
+  "fuente_video": "Models/video.mp4",
+  "fps_video": 20,
+  "latitud_inicial": 40.4168,
+  "longitud_inicial": -3.7038,
+  "mqtt_topic": "uav/telemetry"
+}
