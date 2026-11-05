@@ -11,8 +11,7 @@
 ![MQTT](https://img.shields.io/badge/UDP%20%C2%B7%20TCP%20%C2%B7%20MQTT-telemetr%C3%ADa-660066?logo=eclipsemosquitto&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-amd64%20%7C%20arm64-2496ED?logo=docker&logoColor=white)
 ![Arquitectura](https://img.shields.io/badge/arquitectura-hexagonal-orange)
-[![Ask DeepWiki](https://img.shields.io/badge/Ask-DeepWiki-1F6FEB?logo=readthedocs&logoColor=white)](https://deepwiki.com/jcalvente083/UAV)
-
+<a href="https://deepwiki.com/jcalvente083/UAV"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
 </div>
 
 ---
